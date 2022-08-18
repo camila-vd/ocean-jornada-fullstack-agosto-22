@@ -2,7 +2,7 @@ const express = require("express");
 const { MongoClient } = require("mongodb");
 
 // const url = "mongodb://localhost:27017";
-const url = "mongodb+srv://admin:<kpHWCogkxXQTqNN7>@cluster0.pi0xm2u.mongodb.net/";
+const url = "mongodb+srv://admin:kpHWCogkxXQTqNN7@cluster0.pi0xm2u.mongodb.net/";
 const dbName = "jornada-fullstack-agosto-22";
 
 // Declaração da função main()
